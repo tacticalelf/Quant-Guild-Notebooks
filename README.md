@@ -17,7 +17,7 @@ Welcome to the **Quant Guild Library** — a curated collection of Jupyter Noteb
 ### 📅 2025 Video Lectures (Newest First)
 
 **Latest:**
-- **59.** [Brownian Motion for Quant Finance]()
+- **59.** [Brownian Motion for Quant Finance](https://youtu.be/jiAdz9W4aDI)
 
 **Previous:**
 - **58.** [Why Quant Models Break](https://youtu.be/brdG1TmsPlw)
